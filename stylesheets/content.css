@@ -32,7 +32,6 @@ article blockquote::before {
   position: absolute;
   top: 0;
   left: -17px;
-  overflow: hidden;
 }
 article img { display: block; width: 1020px; margin: 79px auto 0;
 }
